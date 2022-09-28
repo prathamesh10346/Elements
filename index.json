@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "Sodium Chloride",
+        "molecular formula": "Nacl",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "801",
+        "bolingPoint_inDegreeCelsius": "1413"
+    },
+
+    {
+        "id": 2,
+        "name": "Sulfuric acid",
+        "molecular formula": "H2SO4",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "10",
+        "bolingPoint_inDegreeCelsius": "337"
+    },
+  
+   {
+        "id": ,
+        "name": " ",
+        "molecular formula": " ",
+        "colour": " ",
+        "meltingPoint_inDegreeCelsius": " ",
+        "bolingPoint_inDegreeCelsius": " "
+    },
+  
+  
+  
+  ]
