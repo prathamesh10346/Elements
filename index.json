@@ -26,7 +26,14 @@
         "bolingPoint_inDegreeCelsius": " "
     },
   
-  
+     {
+        "id": 3,
+        "name": "Hydrogen chloride ",
+        "molecular formula": "HCL ",
+        "colour": "colorless ",
+        "meltingPoint_inDegreeCelsius": " -114.2",
+        "bolingPoint_inDegreeCelsius": "-85.05 "
+    },
   
         "id": 7 ,
         "name": " hydrogen",
