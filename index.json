@@ -18,13 +18,13 @@
     },
   
    {
-        "id": ,
-        "name": " ",
-        "molecular formula": " ",
-        "colour": " ",
-        "meltingPoint_inDegreeCelsius": " ",
-        "bolingPoint_inDegreeCelsius": " "
-    },
+    "id": 3,
+    "name": "Hydrochloric acid",
+    "molecular formula": "HCL",
+    "colour": "colourless",
+    "meltingPoint_inDegreeCelsius": "-74",
+    "bolingPoint_inDegreeCelsius": "-85.05"
+    }
   
   
   
