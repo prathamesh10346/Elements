@@ -26,6 +26,12 @@
         "bolingPoint_inDegreeCelsius": " "
     },
   
-  
+        "id": 3,
+        "name": "sodium chloride ",
+        "molecular formula": "Nacl ",
+        "colour": "colorless ",
+        "meltingPoint_inDegreeCelsius": " 801",
+        "bolingPoint_inDegreeCelsius": " 1465"
+    },
   
   ]
