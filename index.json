@@ -18,12 +18,12 @@
     },
   
    {
-        "id": ,
-        "name": " ",
-        "molecular formula": " ",
-        "colour": " ",
-        "meltingPoint_inDegreeCelsius": " ",
-        "bolingPoint_inDegreeCelsius": " "
+        "id": 7 ,
+        "name": "Hydrobromic Acid",
+        "molecular formula": "HBr ",
+        "colour": "Faint Yellow  ",
+        "meltingPoint_inDegreeCelsius": " -11 C",
+        "bolingPoint_inDegreeCelsius": " 122 C "
     },
   
   
