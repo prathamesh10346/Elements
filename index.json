@@ -18,12 +18,12 @@
     },
   
    {
-        "id": ,
-        "name": " ",
-        "molecular formula": " ",
-        "colour": " ",
-        "meltingPoint_inDegreeCelsius": " ",
-        "bolingPoint_inDegreeCelsius": " "
+        "id": 3,
+        "name": "oxygen hydride ",
+        "molecular formula": "H2O ",
+        "colour": " Colourless ",
+        "meltingPoint_inDegreeCelsius": "0 ",
+        "bolingPoint_inDegreeCelsius": "100 "
     },
   
   
