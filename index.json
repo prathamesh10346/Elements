@@ -246,7 +246,14 @@
         "meltingPoint_inDegreeCelsius": "831",
         "bolingPoint_inDegreeCelsius": "3413"
     },
-
+{
+        "id": 10 ,
+        "name": "gold",
+        "molecular formula": "N ",
+        "colour": "Colourless  ",
+        "meltingPoint_inDegreeCelsius": " -50C",
+        "bolingPoint_inDegreeCelsius": " 20C "
+    },
 
 
 {
