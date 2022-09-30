@@ -171,6 +171,14 @@
         "meltingPoint_inDegreeCelsius": " 660.3",
         "bolingPoint_inDegreeCelsius": "2467c "
     },
+{
+        "id": 32,
+        "name": "nitrogen",
+        "molecular formula": "N2",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "331",
+        "bolingPoint_inDegreeCelsius": "1513"
+    },
   
   
 
