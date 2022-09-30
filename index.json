@@ -18,7 +18,7 @@
     },
   
    {
-        "id": 7 ,
+        "id": 3 ,
         "name": "Hydrobromic Acid",
         "molecular formula": "HBr ",
         "colour": "Faint Yellow  ",
@@ -26,7 +26,7 @@
         "bolingPoint_inDegreeCelsius": " 122 C "
     },
     {
-        "id": 8 ,
+        "id": 4 ,
         "name": "Nitric Acid",
         "molecular formula": "HNO3 ",
         "colour": "Colourless  ",
@@ -35,7 +35,7 @@
     },
   
      {
-        "id": 3,
+        "id": 5,
         "name": "Hydrogen chloride ",
         "molecular formula": "HCL ",
         "colour": "colorless ",
@@ -43,16 +43,17 @@
         "bolingPoint_inDegreeCelsius": "-85.05 "
     },
   
-        "id": 7 ,
+        "id": 6 ,
         "name": " hydrogen",
         "molecular formula": " H2",
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
+
   
   
     {
-        "id": 8,
+        "id": 7,
         "name": "Oxygen",
         "molecular formula": "O",
         "colour": "colourless",
@@ -67,6 +68,15 @@
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
+    
+     {
+        "id": 9,
+        "name": "sodium ",
+        "molecular formula": "Na ",
+        "colour": "white ",
+        "meltingPoint_inDegreeCelsius": " 370k",
+        "bolingPoint_inDegreeCelsius": "1156.09k "
     },
 
   ]
