@@ -25,6 +25,15 @@
     "meltingPoint_inDegreeCelsius": "-74",
     "bolingPoint_inDegreeCelsius": "-85.05"
     }
+    
+    {
+    "id": 4,
+    "name": "Calcium",
+    "molecular formula": "Ca",
+    "colour": "colourless",
+    "meltingPoint_inDegreeCelsius": "1115 K",
+    "bolingPoint_inDegreeCelsius": "1757 K"
+    }
   
   
   
