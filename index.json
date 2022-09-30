@@ -109,3 +109,27 @@
         "meltingPoint_inDegreeCelsius": " -11 C",
         "bolingPoint_inDegreeCelsius": " 122 C "
     },
+
+{
+         "id": 20 ,
+        "name": " carbon dioxide",
+        "molecular formula": " co2",
+        "colour": " colourless ",
+        "meltingPoint_inDegreeCelsius": "-259.2  ",
+        "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
+  
+  
+  
+  {
+         "id": 20 ,
+        "name": " carbon dioxide",
+        "molecular formula": " co2",
+        "colour": " colourless ",
+        "meltingPoint_inDegreeCelsius": "-259.2  ",
+        "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
+  
+
+  ]
+
