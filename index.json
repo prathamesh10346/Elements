@@ -49,24 +49,14 @@
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
-  
-  
-    {
-        "id": 8,
-        "name": "Oxygen",
-        "molecular formula": "O",
-        "colour": "colourless",
-        "meltingPoint_inDegreeCelsius": "-218",
-        "bolingPoint_inDegreeCelsius": "-183"
     },
-    
-      {
-         "id": 8 ,
-        "name": " hydrochloric acid",
-        "molecular formula": " Hcl",
-        "colour": " colourless ",
-        "meltingPoint_inDegreeCelsius": "-259.2  ",
-        "bolingPoint_inDegreeCelsius": "-252.2 "
+ {
+        "id": 3,
+        "name": "aluminum ",
+        "molecular formula": "Al ",
+        "colour": "silver ",
+        "meltingPoint_inDegreeCelsius": " 660.3",
+        "bolingPoint_inDegreeCelsius": "2467c "
     },
-
+  
   ]
