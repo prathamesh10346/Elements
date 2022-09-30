@@ -69,6 +69,14 @@
         "meltingPoint_inDegreeCelsius": "-101.5",
         "bolingPoint_inDegreeCelsius": "-34.04"
     },
+{
+        "id": 30,
+        "name": "potassium chloride",
+        "molecular formula": "kcl",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "770",
+        "bolingPoint_inDegreeCelsius": "1420"
+    },
 =======
     
       {
