@@ -18,7 +18,7 @@
     },
   
    {
-        "id": 7 ,
+        "id": 3 ,
         "name": "Hydrobromic Acid",
         "molecular formula": "HBr ",
         "colour": "Faint Yellow  ",
@@ -26,7 +26,7 @@
         "bolingPoint_inDegreeCelsius": " 122 C "
     },
     {
-        "id": 8 ,
+
         "name": "Nitric Acid",
         "molecular formula": "HNO3 ",
         "colour": "Colourless  ",
@@ -35,7 +35,7 @@
     },
   
      {
-        "id": 3,
+        "id": 5,
         "name": "Hydrogen chloride ",
         "molecular formula": "HCL ",
         "colour": "colorless ",
@@ -43,15 +43,104 @@
         "bolingPoint_inDegreeCelsius": "-85.05 "
     },
   
-        "id": 7 ,
+        "id": 6 ,
         "name": " hydrogen",
         "molecular formula": " H2",
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
+
     },
- {
-        "id": 3,
+
+
+  
+  
+    {
+        "id": 7,
+        "name": "Oxygen",
+        "molecular formula": "O",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "-218",
+        "bolingPoint_inDegreeCelsius": "-183"
+    },
+    
+      {
+         "id": 9 ,
+        "name": " hydrochloric acid",
+        "molecular formula": " Hcl",
+        "colour": " colourless ",
+        "meltingPoint_inDegreeCelsius": "-259.2  ",
+        "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
+
+  {
+        "id": 10 ,
+        "name": "Nitrogen",
+        "molecular formula": "N ",
+        "colour": "Colourless  ",
+        "meltingPoint_inDegreeCelsius": " -50C",
+        "bolingPoint_inDegreeCelsius": " 20C "
+    },
+
+    
+     {
+        "id": 9,
+        "name": "sodium ",
+        "molecular formula": "Na ",
+        "colour": "white ",
+        "meltingPoint_inDegreeCelsius": " 370k",
+        "bolingPoint_inDegreeCelsius": "1156.09k "
+    },
+    
+    
+    {
+        "id": 10 ,
+        "name": "Nitrogen",
+        "molecular formula": "N ",
+        "colour": "Colourless  ",
+        "meltingPoint_inDegreeCelsius": " -50C",
+        "bolingPoint_inDegreeCelsius": " 20C "
+    },
+
+
+  ]
+{
+        "id": 3 ,
+        "name": "lithum",
+        "molecular formula": " li",
+        "colour": "Faint Yellow  ",
+        "meltingPoint_inDegreeCelsius": " -11 C",
+        "bolingPoint_inDegreeCelsius": " 122 C "
+    },
+
+{
+         "id": 20 ,
+        "name": " carbon dioxide",
+        "molecular formula": " co2",
+        "colour": " colourless ",
+        "meltingPoint_inDegreeCelsius": "-259.2  ",
+        "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
+         "id": 8 ,
+        "name": " hydrochloric acid",
+        "molecular formula": " hcl",
+        "colour": " colourless ",
+        "meltingPoint_inDegreeCelsius": "-259.2  ",
+        "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
+  
+  
+  
+  {
+         "id": 20 ,
+        "name": " carbon dioxide",
+        "molecular formula": " co2",
+        "colour": " colourless ",
+        "meltingPoint_inDegreeCelsius": "-259.2  ",
+        "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
+     {
+        "id": 115,
         "name": "aluminum ",
         "molecular formula": "Al ",
         "colour": "silver ",
@@ -59,4 +148,7 @@
         "bolingPoint_inDegreeCelsius": "2467c "
     },
   
+
+
   ]
+
