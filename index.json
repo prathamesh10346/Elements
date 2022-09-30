@@ -187,7 +187,14 @@
         "meltingPoint_inDegreeCelsius": "331",
         "bolingPoint_inDegreeCelsius": "1613"
     },
-  
+  {
+        "id": 35,
+        "name": "titanium",
+        "molecular formula": "ti",
+        "colour": "black",
+        "meltingPoint_inDegreeCelsius": "331",
+        "bolingPoint_inDegreeCelsius": "1613"
+    },
   
 
 
