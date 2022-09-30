@@ -100,24 +100,28 @@
     },
 
 
+  ]
 {
-        "id": 10,
-        "name": "Potassium ",
-        "molecular formula": "K ",
-        "colour": "green ",
-        "meltingPoint_inDegreeCelsius": " 63.5",
-        "bolingPoint_inDegreeCelsius": " 758.8 "
+        "id": 3 ,
+        "name": "lithum",
+        "molecular formula": " li",
+        "colour": "Faint Yellow  ",
+        "meltingPoint_inDegreeCelsius": " -11 C",
+        "bolingPoint_inDegreeCelsius": " 122 C "
     },
 
- {
-        "id": 2,
-        "name": "setric acid",
-        "molecular formula": "c2h4",
-        "colour": "colourless",
-        "meltingPoint_inDegreeCelsius": "10",
-        "bolingPoint_inDegreeCelsius": "327"
-    },
 {
+         "id": 20 ,
+        "name": " carbon dioxide",
+        "molecular formula": " co2",
+        "colour": " colourless ",
+        "meltingPoint_inDegreeCelsius": "-259.2  ",
+        "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
+  
+  
+  
+  {
          "id": 20 ,
         "name": " carbon dioxide",
         "molecular formula": " co2",
@@ -128,3 +132,4 @@
   
 
   ]
+
