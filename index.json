@@ -50,5 +50,13 @@
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
     },
+ {
+        "id": 3,
+        "name": "sodium ",
+        "molecular formula": "Na ",
+        "colour": "white ",
+        "meltingPoint_inDegreeCelsius": " 370k",
+        "bolingPoint_inDegreeCelsius": "1156.09k "
+    },
   
   ]
