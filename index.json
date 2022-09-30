@@ -125,6 +125,15 @@
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
     },
+ {
+        "id": 9,
+        "name": "Hydrogen sulfide ",
+        "molecular formula": "H2S",
+        "colour": "colorless",
+        "meltingPoint_inDegreeCelsius": " -60",
+        "bolingPoint_inDegreeCelsius": "-60 "
+    },
+
   
   
   
