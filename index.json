@@ -60,6 +60,14 @@
         "meltingPoint_inDegreeCelsius": "-218",
         "bolingPoint_inDegreeCelsius": "-183"
     },
+ {
+        "id": 99,
+        "name": "carbon",
+        "molecular formula": "c",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "35550",
+        "bolingPoint_inDegreeCelsius": "4827"
+    },
     
 {
         "id": 9,
