@@ -554,6 +554,39 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": 77,
+        "name": "Silver",
+        "molecular formula": "Ag",
+        "colour": "White",
+        "meltingPoint_inDegreeCelsius": "961.8",
+        "bolingPoint_inDegreeCelsius": "2162"
+    },
+
+
+
   ]
 
 
