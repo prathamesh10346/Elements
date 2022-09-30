@@ -61,6 +61,16 @@
         "bolingPoint_inDegreeCelsius": "-183"
     },
     
+{
+        "id": 9,
+        "name": "chlorine",
+        "molecular formula": "cl",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "-101.5",
+        "bolingPoint_inDegreeCelsius": "-34.04"
+    },
+=======
+    
       {
          "id": 8 ,
         "name": " hydrochloric acid",
@@ -163,6 +173,7 @@
     },
   
   
+
 
 
   ]
