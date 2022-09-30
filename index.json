@@ -654,7 +654,15 @@
         "bolingPoint_inDegreeCelsius": "1613"
     },
   
-  
+
+ "id": 20 ,
+        "name": " lithium",
+        "molecular formula": " Li",
+        "colour": " colourless ",
+        "meltingPoint_inDegreeCelsius": "-259.2  ",
+        "bolingPoint_inDegreeCelsius": "-252.2 "
+  }
+
 
 
 
