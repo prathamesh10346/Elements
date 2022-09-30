@@ -179,6 +179,14 @@
         "meltingPoint_inDegreeCelsius": "331",
         "bolingPoint_inDegreeCelsius": "1513"
     },
+{
+        "id": 34,
+        "name": "chlorine",
+        "molecular formula": "cl2",
+        "colour": "black",
+        "meltingPoint_inDegreeCelsius": "331",
+        "bolingPoint_inDegreeCelsius": "1613"
+    },
   
   
 
