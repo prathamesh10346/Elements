@@ -192,6 +192,29 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+{
+        "id": 51,
+        "name": "chlorine",
+        "molecular formula": "cl2",
+        "colour": "black",
+        "meltingPoint_inDegreeCelsius": "331",
+        "bolingPoint_inDegreeCelsius": "1613"
+    },
+  
+  
+
+
+
   ]
 
 
