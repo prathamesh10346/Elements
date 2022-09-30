@@ -510,7 +510,7 @@
 {
         "id": 59,
         "name": "thorium",
-        "molecular formula": "cl2",
+        "molecular formula": "Th",
         "colour": "silvery white",
         "meltingPoint_inDegreeCelsius": "1755",
         "bolingPoint_inDegreeCelsius": "47878"
