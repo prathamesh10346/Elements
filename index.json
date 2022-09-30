@@ -79,4 +79,14 @@
         "bolingPoint_inDegreeCelsius": "1156.09k "
     },
 
+ {
+        "id": 2,
+        "name": "setric acid",
+        "molecular formula": "c2h4",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "10",
+        "bolingPoint_inDegreeCelsius": "327"
+    },
+  
+
   ]
