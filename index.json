@@ -79,4 +79,13 @@
         "bolingPoint_inDegreeCelsius": "1156.09k "
     },
 
+{
+        "id": 10,
+        "name": "Potassium ",
+        "molecular formula": "K ",
+        "colour": "green ",
+        "meltingPoint_inDegreeCelsius": " 63.5",
+        "bolingPoint_inDegreeCelsius": " 758.8 "
+    },
+
   ]
