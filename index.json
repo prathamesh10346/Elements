@@ -50,6 +50,9 @@
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
 
+    },
+
+
   
   
     {
@@ -118,9 +121,19 @@
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
     },
+    {
+
          "id": 25 ,
         "name": " boron",
         "molecular formula": " b",
+        },
+        {
+        
+         "id": 8 ,
+        "name": " hydrochloric acid",
+        "molecular formula": " hcl",
+        },{
+
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
@@ -136,7 +149,16 @@
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
     },
+     {
+        "id": 115,
+        "name": "aluminum ",
+        "molecular formula": "Al ",
+        "colour": "silver ",
+        "meltingPoint_inDegreeCelsius": " 660.3",
+        "bolingPoint_inDegreeCelsius": "2467c "
+    },
   
+
 
   ]
 
