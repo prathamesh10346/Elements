@@ -25,7 +25,8 @@
         "meltingPoint_inDegreeCelsius": " -11 C",
         "bolingPoint_inDegreeCelsius": " 122 C "
     },
-    {
+  
+      {
         "id": 8 ,
         "name": "Nitric Acid",
         "molecular formula": "HNO3 ",
@@ -61,12 +62,19 @@
     },
     
       {
-         "id": 8 ,
+         "id": 9 ,
         "name": " hydrochloric acid",
         "molecular formula": " Hcl",
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
     },
-
+  {
+        "id": 10 ,
+        "name": "Nitrogen",
+        "molecular formula": "N ",
+        "colour": "Colourless  ",
+        "meltingPoint_inDegreeCelsius": " -50C",
+        "bolingPoint_inDegreeCelsius": " 20C "
+    },
   ]
