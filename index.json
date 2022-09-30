@@ -60,6 +60,14 @@
         "meltingPoint_inDegreeCelsius": "-218",
         "bolingPoint_inDegreeCelsius": "-183"
     },
+ {
+        "id": 8,
+        "name": "carbon",
+        "molecular formula": "c",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "35550",
+        "bolingPoint_inDegreeCelsius": "4827"
+    },
     
 {
         "id": 9,
@@ -69,35 +77,19 @@
         "meltingPoint_inDegreeCelsius": "-101.5",
         "bolingPoint_inDegreeCelsius": "-34.04"
     },
-=======
-    
-      {
-         "id": 8 ,
-        "name": " hydrochloric acid",
-        "molecular formula": " Hcl",
-        "colour": " colourless ",
-        "meltingPoint_inDegreeCelsius": "-259.2  ",
-        "bolingPoint_inDegreeCelsius": "-252.2 "
-    },
-    
-     {
-        "id": 9,
-        "name": "sodium ",
-        "molecular formula": "Na ",
-        "colour": "white ",
-        "meltingPoint_inDegreeCelsius": " 370k",
-        "bolingPoint_inDegreeCelsius": "1156.09k "
-    },
-    {
+{
         "id": 10,
-        "name": "Gold ",
-        "molecular formula": "Au ",
-        "colour": "golden yellow ",
-        "meltingPoint_inDegreeCelsius": " 1064.18°C",
-        "bolingPoint_inDegreeCelsius": "2836°C"
+        "name": "potassium chloride",
+        "molecular formula": "kcl",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "770",
+        "bolingPoint_inDegreeCelsius": "1420"
     },
 
-  ]
+    
+      
+   
+  
 
 {
         "id": 11 ,
@@ -135,14 +127,7 @@
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
     },
- {
-        "id": 9,
-        "name": "Hydrogen sulfide ",
-        "molecular formula": "H2S",
-        "colour": "colorless",
-        "meltingPoint_inDegreeCelsius": " -60",
-        "bolingPoint_inDegreeCelsius": "-60 "
-    },
+    
 
   
   
@@ -172,7 +157,7 @@
         "bolingPoint_inDegreeCelsius": "2467c "
     },
 {
-        "id": 32,
+        "id": 19,
         "name": "nitrogen",
         "molecular formula": "N2",
         "colour": "white",
@@ -180,22 +165,443 @@
         "bolingPoint_inDegreeCelsius": "1513"
     },
 {
-        "id": 34,
+        "id": 20,
         "name": "chlorine",
         "molecular formula": "cl2",
         "colour": "black",
         "meltingPoint_inDegreeCelsius": "331",
         "bolingPoint_inDegreeCelsius": "1613"
     },
+
   {
-        "id": 35,
+        "id": 21,
         "name": "titanium",
         "molecular formula": "ti",
         "colour": "black",
         "meltingPoint_inDegreeCelsius": "331",
         "bolingPoint_inDegreeCelsius": "1613"
     },
+    {
   
+  
+   "id": 22 ,
+        "name": " hydrogen",
+        "molecular formula": " H2",
+        "colour": " colourless ",
+        "meltingPoint_inDegreeCelsius": "-259.2  ",
+        "bolingPoint_inDegreeCelsius": "-252.2 "
+        },
+
+{
+        "id": 23,
+        "name": "Ferrum ",
+        "molecular formula": "Fe",
+        "colour": "dull and grey ",
+        "meltingPoint_inDegreeCelsius": " 1538",
+        "bolingPoint_inDegreeCelsius": "2862 c "
+    },
+    
+    {
+         "id": 24 ,
+        "name": " hydrochloric acid",
+        "molecular formula": " Hcl",
+        "colour": " colourless ",
+        "meltingPoint_inDegreeCelsius": "-259.2  ",
+        "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
+    
+     {
+        "id":25,
+        "name": "sodium ",
+        "molecular formula": "Na ",
+        "colour": "white ",
+        "meltingPoint_inDegreeCelsius": " 370k",
+        "bolingPoint_inDegreeCelsius": "1156.09k "
+    },
+
+
+ {
+        "id": 26,
+        "name": "Hydrogen sulfide ",
+        "molecular formula": "H2S",
+        "colour": "colorless",
+        "meltingPoint_inDegreeCelsius": " -60",
+        "bolingPoint_inDegreeCelsius": "-60 "
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {
+        "id": 10,
+        "name": "Gold ",
+        "molecular formula": "Au ",
+        "colour": "golden yellow ",
+        "meltingPoint_inDegreeCelsius": " 1064.18°C",
+        "bolingPoint_inDegreeCelsius": "2836°C"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+        "id": 59,
+        "name": "thorium",
+        "molecular formula": "Th",
+        "colour": "silvery white",
+        "meltingPoint_inDegreeCelsius": "1755",
+        "bolingPoint_inDegreeCelsius": "47878"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": 77,
+        "name": "Silver",
+        "molecular formula": "Ag",
+        "colour": "White",
+        "meltingPoint_inDegreeCelsius": "961.8",
+        "bolingPoint_inDegreeCelsius": "2162"
+    },
+
 
 
 
