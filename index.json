@@ -42,6 +42,7 @@
         "meltingPoint_inDegreeCelsius": " -114.2",
         "bolingPoint_inDegreeCelsius": "-85.05 "
     },
+    {
   
         "id": 6 ,
         "name": " hydrogen",
@@ -49,6 +50,7 @@
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
 
   
   
@@ -60,6 +62,7 @@
         "meltingPoint_inDegreeCelsius": "-218",
         "bolingPoint_inDegreeCelsius": "-183"
     },
+    
  {
         "id": 8,
         "name": "carbon",
@@ -101,7 +104,7 @@
     },
 
 {
-         "id": 12 ,
+        "id": 12 ,
         "name": " carbon dioxide",
         "molecular formula": " co2",
         "colour": " colourless ",
@@ -112,14 +115,14 @@
 
          "id": 13 ,
         "name": " boron",
-        "molecular formula": " b",
-        },
-        {
+        "molecular formula": " b"
+    },
+    {
         
-         "id": 14 ,
+        "id": 14 ,
         "name": " hydrochloric acid",
-        "molecular formula": " hcl",
-        },
+        "molecular formula": " hcl"
+    },
         
         {
         "id": 15 ,
@@ -184,7 +187,7 @@
     {
   
   
-   "id": 22 ,
+        "id": 22 ,
         "name": " hydrogen",
         "molecular formula": " H2",
         "colour": " colourless ",
@@ -202,7 +205,7 @@
     },
     
     {
-         "id": 24 ,
+        "id": 24 ,
         "name": " hydrochloric acid",
         "molecular formula": " Hcl",
         "colour": " colourless ",
@@ -230,7 +233,7 @@
     },
  {
 
-        "id": 27
+        "id": 27,
         "name": "Gold ",
         "molecular formula": "H2S",
         "colour": "colorless",
@@ -247,7 +250,7 @@
         "bolingPoint_inDegreeCelsius": "3413"
     },
 {
-        "id": 10 ,
+        "id": 29 ,
         "name": "gold",
         "molecular formula": "N ",
         "colour": "Colourless  ",
@@ -258,7 +261,7 @@
 
 {
 
-        "id": 29,
+        "id": 30,
         "name": "lead",
         "molecular formula": "pb",
         "colour": "white",
@@ -268,308 +271,17 @@
 
 {
 
-        "id": 29,
+        "id": 31,
         "name": "methane",
         "molecular formula": "ch4",
         "colour": "colurless",
         "meltingPoint_inDegreeCelsius": "431",
         "bolingPoint_inDegreeCelsius": "3413"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    
  {
-        "id": 10,
+        "id": 32,
         "name": "Gold ",
         "molecular formula": "Au ",
         "colour": "golden yellow ",
@@ -579,100 +291,33 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
-        "id": 59,
+        "id": 33,
         "name": "thorium",
         "molecular formula": "Th",
         "colour": "silvery white",
         "meltingPoint_inDegreeCelsius": "1755",
         "bolingPoint_inDegreeCelsius": "47878"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
-        "id": 77,
+        "id": 34,
         "name": "Silver",
         "molecular formula": "Ag",
         "colour": "White",
         "meltingPoint_inDegreeCelsius": "961.8",
         "bolingPoint_inDegreeCelsius": "2162"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
-        "id": 51,
+    {
+        "id": 35,
         "name": "chlorine",
         "molecular formula": "cl2",
         "colour": "black",
         "meltingPoint_inDegreeCelsius": "331",
         "bolingPoint_inDegreeCelsius": "1613"
     },
-  
-
- "id": 20 ,
+    {
+        
+        "id": 36 ,
         "name": " lithium",
         "molecular formula": " Li",
         "colour": " colourless ",
@@ -680,9 +325,5 @@
         "bolingPoint_inDegreeCelsius": "-252.2 "
   }
 
-
-
-
-  ]
-
+]
 
