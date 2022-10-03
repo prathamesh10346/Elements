@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Sodium Chloride",
-        "molecular formula": "Nacl",
+        "molecular formula": "NaCl",
         "colour": "colourless",
         "meltingPoint_inDegreeCelsius": "801",
         "bolingPoint_inDegreeCelsius": "1413"
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "name": "Hydrogen chloride ",
+        "name": "Hydrogen Chloride ",
         "molecular formula": "HCL ",
         "colour": "colorless ",
         "meltingPoint_inDegreeCelsius": " -114.2",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "name": " hydrogen",
+        "name": " Hydrogen",
         "molecular formula": " H2",
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
@@ -81,7 +81,7 @@
     },
     {
         "id": 11,
-        "name": "lithum",
+        "name": "Lithum",
         "molecular formula": " li",
         "colour": "Faint Yellow  ",
         "meltingPoint_inDegreeCelsius": " -11 C",
@@ -89,7 +89,7 @@
     },
     {
         "id": 12,
-        "name": " carbon dioxide",
+        "name": "Carbon Dioxide",
         "molecular formula": " co2",
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
@@ -97,7 +97,7 @@
     },
     {
         "id": 13,
-        "name": " boron",
+        "name": "Boron",
         "molecular formula": " b"
     },
     {
@@ -278,8 +278,15 @@
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
+    },
+    {
+        "id": 37,
+        "name": " Rubidium",
+        "molecular formula": "Rb",
+        "colour": "Silvery White",
+        "meltingPoint_inDegreeCelsius": "312.45 K",
+        "bolingPoint_inDegreeCelsius": "961 K"
     }
-    
     
     
     
