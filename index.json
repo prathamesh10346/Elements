@@ -7,6 +7,7 @@
         "meltingPoint_inDegreeCelsius": "801",
         "bolingPoint_inDegreeCelsius": "1413"
     },
+
     {
         "id": 2,
         "name": "Sulfuric acid",
@@ -25,55 +26,21 @@
         "colour": " Colourless ",
         "meltingPoint_inDegreeCelsius": "0 ",
         "bolingPoint_inDegreeCelsius": "100 "
+   },
+
+   {
 
 
-    "id": 3,
+    "id": 4,
     "name": "Hydrochloric acid",
     "molecular formula": "HCL",
     "colour": "colourless",
     "meltingPoint_inDegreeCelsius": "-74",
     "bolingPoint_inDegreeCelsius": "-85.05"
-    }
+    },
    
-    {
-        "id": 7 ,
-
-        "id": ,
-        "name": " ",
-        "molecular formula": " ",
-        "colour": " ",
-        "meltingPoint_inDegreeCelsius": " ",
-        "bolingPoint_inDegreeCelsius": " "
-
-    },
-  
-        "id": 3,
-        "name": "sodium chloride ",
-        "molecular formula": "Nacl ",
-        "colour": "colorless ",
-        "meltingPoint_inDegreeCelsius": " 801",
-        "bolingPoint_inDegreeCelsius": " 1465"
-    },
-  
-  
-
-    {
-        "id": 3,
-
-        "name": "Hydrobromic Acid",
-        "molecular formula": "HBr ",
-        "colour": "Faint Yellow  ",
-        "meltingPoint_inDegreeCelsius": " -11 C",
-        "bolingPoint_inDegreeCelsius": " 122 C "
-    },
-    {
-        "id": 4,
-        "name": "Nitric Acid",
-        "molecular formula": "HNO3 ",
-        "colour": "Colourless  ",
-        "meltingPoint_inDegreeCelsius": " -42C",
-        "bolingPoint_inDegreeCelsius": " 83C "
-    },
+   
+    
     {
         "id": 5,
         "name": "Hydrogen Chloride ",
@@ -84,9 +51,7 @@
     },
     {
   
-        "id": 7 ,
-
-        "id": 6,
+        "id": 6 ,
         "name": " Hydrogen",
         "molecular formula": " H2",
         "colour": " colourless ",
@@ -216,17 +181,10 @@
     },
 
     
-    {
-    "id": 8,
-    "name": "Calcium",
-    "molecular formula": "Ca",
-    "colour": "colourless",
-    "meltingPoint_inDegreeCelsius": "1115 K",
-    "bolingPoint_inDegreeCelsius": "1757 K"
-    },
+    
     
   
-  ]
+  
 
     {
         "id": 23,
@@ -347,7 +305,53 @@
         "colour": "Silvery White",
         "meltingPoint_inDegreeCelsius": "312.45 K",
         "bolingPoint_inDegreeCelsius": "961 K"
-    }
+    },
+    {
+        "id": 38 ,
+        "name": " ",
+        "molecular formula": " ",
+        "colour": " ",
+        "meltingPoint_inDegreeCelsius": " ",
+        "bolingPoint_inDegreeCelsius": " "
+
+    },
+    {
+  
+        "id": 39,
+        "name": "sodium chloride ",
+        "molecular formula": "Nacl ",
+        "colour": "colorless ",
+        "meltingPoint_inDegreeCelsius": " 801",
+        "bolingPoint_inDegreeCelsius": " 1465"
+    },
+  
+  
+
+    {
+        "id": 40,
+
+        "name": "Hydrobromic Acid",
+        "molecular formula": "HBr ",
+        "colour": "Faint Yellow  ",
+        "meltingPoint_inDegreeCelsius": " -11 C",
+        "bolingPoint_inDegreeCelsius": " 122 C "
+    },
+    {
+        "id": 41,
+        "name": "Nitric Acid",
+        "molecular formula": "HNO3 ",
+        "colour": "Colourless  ",
+        "meltingPoint_inDegreeCelsius": " -42C",
+        "bolingPoint_inDegreeCelsius": " 83C "
+    },
+    {
+        "id": 42,
+        "name": "Calcium",
+        "molecular formula": "Ca",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "1115 K",
+        "bolingPoint_inDegreeCelsius": "1757 K"
+        }
     
     
     
