@@ -18,6 +18,18 @@
 
   
    {
+
+    "id": 3,
+    "name": "Hydrochloric acid",
+    "molecular formula": "HCL",
+    "colour": "colourless",
+    "meltingPoint_inDegreeCelsius": "-74",
+    "bolingPoint_inDegreeCelsius": "-85.05"
+    }
+   
+    {
+        "id": 7 ,
+
         "id": ,
         "name": " ",
         "molecular formula": " ",
@@ -38,6 +50,7 @@
 
     {
         "id": 3,
+
         "name": "Hydrobromic Acid",
         "molecular formula": "HBr ",
         "colour": "Faint Yellow  ",
@@ -61,6 +74,9 @@
         "bolingPoint_inDegreeCelsius": "-85.05 "
     },
     {
+  
+        "id": 7 ,
+
         "id": 6,
         "name": " Hydrogen",
         "molecular formula": " H2",
@@ -182,12 +198,27 @@
     },
     {
         "id": 22,
+
         "name": " hydrogen",
         "molecular formula": " H2",
         "colour": " colourless ",
         "meltingPoint_inDegreeCelsius": "-259.2  ",
         "bolingPoint_inDegreeCelsius": "-252.2 "
     },
+
+    
+    {
+    "id": 8,
+    "name": "Calcium",
+    "molecular formula": "Ca",
+    "colour": "colourless",
+    "meltingPoint_inDegreeCelsius": "1115 K",
+    "bolingPoint_inDegreeCelsius": "1757 K"
+    },
+    
+  
+  ]
+
     {
         "id": 23,
         "name": "Ferrum ",
@@ -315,4 +346,5 @@
     
     
 ]
+
 
