@@ -351,7 +351,15 @@
         "colour": "colourless",
         "meltingPoint_inDegreeCelsius": "1115 K",
         "bolingPoint_inDegreeCelsius": "1757 K"
-        }
+    },
+    {
+        "id": 43,
+        "name": "Uranium",
+        "molecular formula": "U",
+        "colour": "silver-gray",
+        "meltingPoint_inDegreeCelsius": "1,132 °C",
+        "bolingPoint_inDegreeCelsius": "4,131 °C"
+    }
     
     
     
