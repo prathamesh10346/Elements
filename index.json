@@ -311,8 +311,40 @@
   },
 
   {
-    "id": 40,
-
+        "id": 40,
+        "name": "Hydrobromic Acid",
+        "molecular formula": "HBr ",
+        "colour": "Faint Yellow  ",
+        "meltingPoint_inDegreeCelsius": " -11 C",
+        "bolingPoint_inDegreeCelsius": " 122 C "
+    },
+    {
+        "id": 41,
+        "name": "Nitric Acid",
+        "molecular formula": "HNO3 ",
+        "colour": "Colourless  ",
+        "meltingPoint_inDegreeCelsius": " -42C",
+        "bolingPoint_inDegreeCelsius": " 83C "
+    },
+    {
+        "id": 42,
+        "name": "Calcium",
+        "molecular formula": "Ca",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "1115 K",
+        "bolingPoint_inDegreeCelsius": "1757 K"
+    },
+    {
+        "id": 43,
+        "name": "Uranium",
+        "molecular formula": "U",
+        "colour": "silver-gray",
+        "meltingPoint_inDegreeCelsius": "1,132 °C",
+        "bolingPoint_inDegreeCelsius": "4,131 °C"
+    },
+    {
+    
+    "id": 44,
     "name": "Hydrobromic Acid",
     "molecular formula": "HBr ",
     "colour": "Faint Yellow  ",
@@ -320,7 +352,7 @@
     "bolingPoint_inDegreeCelsius": " 122 C "
   },
   {
-    "id": 41,
+    "id": 45,
     "name": "Nitric Acid",
     "molecular formula": "HNO3 ",
     "colour": "Colourless  ",
@@ -328,7 +360,7 @@
     "bolingPoint_inDegreeCelsius": " 83C "
   },
   {
-    "id": 42,
+    "id": 46,
     "name": "Calcium",
     "molecular formula": "Ca",
     "colour": "colourless",
@@ -336,11 +368,12 @@
     "bolingPoint_inDegreeCelsius": "1757 K"
   },
   {
-    "id": 43,
+    "id": 47,
     "name": "Phosphorus",
     "molecular formula": "P",
     "colour": "white",
     "meltingPoint_inDegreeCelsius": "44.1C",
     "bolingPoint_inDegreeCelsius": "280.5C"
   }
+
 ]
