@@ -418,5 +418,13 @@
     "colour": "white",
     "meltingPoint_inDegreeCelsius": "44.1C",
     "bolingPoint_inDegreeCelsius": "280.5C"
-}
+},
+{
+  "id": 52,
+      "name": "Perchloric Acid",
+      "molecular formula": "HClO4",
+      "colour": "colorless ",
+      "meltingPoint_inDegreeCelsius": "-112C",
+      "bolingPoint_inDegreeCelsius": "203C"
+  }
 ]
