@@ -491,7 +491,15 @@
       "colour": "colourless",
       "meltingPoint_inDegreeCelsius": "-13.4",
       "bolingPoint_inDegreeCelsius": "25.6 °C"
-    }
+    },
+    {
+      "id": 1,
+      "name": "Acetic Acid",
+      "molecular formula": "C2H4O2",
+      "colour": "colourless",
+      "meltingPoint_inDegreeCelsius": "16.6",
+      "bolingPoint_inDegreeCelsius": "118"
+    },
 
   ]
   
