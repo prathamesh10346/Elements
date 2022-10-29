@@ -491,6 +491,14 @@
       "colour": "colourless",
       "meltingPoint_inDegreeCelsius": "-13.4",
       "bolingPoint_inDegreeCelsius": "25.6 °C"
+    },
+    {
+      "id": 60,
+      "name": "Sodium Carbonate",
+      "molecular formula": "Na2CO3",
+      "colour": "white",
+      "meltingPoint_inDegreeCelsius": "851",
+      "bolingPoint_inDegreeCelsius": "1600"
     }
 
   ]
