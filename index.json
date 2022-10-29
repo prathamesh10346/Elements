@@ -472,15 +472,27 @@
         "colour": "colorless ",
         "meltingPoint_inDegreeCelsius": "-112C",
         "bolingPoint_inDegreeCelsius": "203C"
+
     },
     {
-      "id": 58,
+        "id": 58,
+      "name": "Water",
+      "molecular formula": "H20",
+      "colour": "blue",
+      "meltingPoint_inDegreeCelsius": "0C",
+      "bolingPoint_inDegreeCelsius": "100C"
+    
+
+    },
+    {
+      "id": 59,
       "name": "Hydrogen Cyanide",
       "molecular formula": "HCN",
       "colour": "colourless",
       "meltingPoint_inDegreeCelsius": "-13.4",
       "bolingPoint_inDegreeCelsius": "25.6 °C"
-    },
+    }
+
   ]
   
   
